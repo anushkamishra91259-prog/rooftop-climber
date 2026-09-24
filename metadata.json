@@ -1,0 +1,6 @@
+{
+  "name": "Infinite Rooftop Runner",
+  "description": "A cyberpunk synthwave procedural rooftop runner game with dynamic physics, obstacles, energy orbs, and procedural Web Audio API sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
